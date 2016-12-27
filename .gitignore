@@ -1,0 +1,16 @@
+.idea
+.DS_Store
+.project
+.metadata
+.settings
+.classpath
+.gradle
+.vertx
+build
+target
+*.via
+*.tmp
+*.err
+*.log
+*.log.*
+*.iml
